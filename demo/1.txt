@@ -1,0 +1,21 @@
+IF TRUE THEN
+    IF TRUE THEN
+        IF FALSE THEN
+            "no secter"
+        ELSE
+            "secter"
+    ELSE
+"
+IF TRUE THEN 
+    'FALSE' 
+ELSE 
+    'TRUE'
+"
+ELSE
+    IF FALSE THEN
+        IF FALSE THEN "else" ELSE "if"
+    ELSE IF TRUE THEN
+        "1"
+    ELSE
+        "2"
+
